@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Seva.
+- 👀 I’m a full-stack web developer.
+- 💞️ I’m looking to collaborate on AI and machine learning projects.
+- 📫 Reach me anytime @ sevacom.
